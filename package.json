@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Samruddhi-Chaure/Backend-Learnings/issues"
   },
-  "homepage": "https://github.com/Samruddhi-Chaure/Backend-Learnings#readme"
+  "homepage": "https://github.com/Samruddhi-Chaure/Backend-Learnings#readme",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
 }
